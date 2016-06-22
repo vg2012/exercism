@@ -53,13 +53,4 @@ public class Binary {
 
 		return true;
 	}
-
-	public String getInput() {
-		return input;
-	}
-
-	public void setInput(String input) {
-		this.input = input;
-	}
-
 }
